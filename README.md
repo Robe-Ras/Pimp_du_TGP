@@ -104,8 +104,5 @@ end
   end
 end
 
-```
-## 🚀 About Me
-I'm a future fullstack dev. 
-This is the beginning of a great coder!
+
 
